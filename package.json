@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "daisyui": "^5.6.7",
+    "framer-motion": "^12.42.2",
+    "react-hot-toast": "^2.6.0",
+    "react-router-dom": "^7.18.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.5.2",
+    "postcss": "^8.5.16",
+    "tailwindcss": "^4.3.2"
+  }
+}
